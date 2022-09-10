@@ -1,5 +1,5 @@
 # Medical-Center
-A C# ASP.Net MVC web application to manage regular medical appointments in a diagnostic center.
+A C# ASP.NET MVC web application to manage regular medical appointments in a diagnostic center.
 
 As part of the course "Current topics of software engineering - Software for mobile devices", we developed a web application called Medical Center.
 
